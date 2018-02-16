@@ -57,7 +57,7 @@ table {
 }
 
 header {
-    background: url("images/header.png") center center no-repeat;
+    background: url("../images/header.png") center center no-repeat;
     color: #fff;
     text-align: center;
     background-size: cover;
