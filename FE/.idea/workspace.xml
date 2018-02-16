@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb92d0d8-4e38-45d1-82f7-e35c112d4227" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/index/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/index/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/index/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/test/test.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/test/test.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/test.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/test/test.js" afterPath="$PROJECT_DIR$/testJS/.idea/inspectionProfiles/test/test.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testJS/.idea/inspectionProfiles/test/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="578">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phone.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phone.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testJS/.idea/inspectionProfiles/images/phone.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -130,8 +120,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="392" />
-    <option name="y" value="30" />
+    <option name="x" value="280" />
+    <option name="y" value="50" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -332,15 +322,16 @@
       <updated>1518610999621</updated>
       <workItem from="1518611000989" duration="12060000" />
       <workItem from="1518792617464" duration="11000" />
-      <workItem from="1518793651927" duration="702000" />
+      <workItem from="1518793651927" duration="1211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12773000" />
+    <option name="totallyTimeSpent" value="13282000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -354,7 +345,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -477,14 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testJS/.idea/inspectionProfiles/test/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testJS/.idea/inspectionProfiles/images/header.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -493,6 +476,14 @@
     <entry file="file://$PROJECT_DIR$/testJS/.idea/inspectionProfiles/images/phone.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testJS/.idea/inspectionProfiles/test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
