@@ -23,10 +23,10 @@ function min(a, b) {
     return a < b ? a : b;
 }
 
-function generateRandomArray(a, b, arrayLeng) {
+function generateRandomArray(minNumberOfArrey, maxNumberOfArray, arrayLeng) {
     var randomArray = [];
     for (var i = 0; i < arrayLeng; i++) {
-        var rand = a - 0.5 + Math.random() * (b - a + 1)
+        var rand = minNumberOfArrey - 0.5 + Math.random() * (maxNumberOfArray - minNumberOfArrey + 1)
         rand = Math.round(rand);
         randomArray.push(rand);
     }
