@@ -1,3 +1,10 @@
 .article-list_li {
     list-style: none;
 }
+
+#revert_btn{
+    margin-left: 10px;
+    font-size: large;
+    background-color: #007bff;
+
+}
